@@ -21,8 +21,7 @@ For details, please see LICENSE.txt
 
 If you use the code for published works, please cite as
 
-"Florian Sittel (2016) *FastPCA - fast Principal Component Analysis Package*, http://lettis.github.io/FastPCA"
-
+- F. Sittel et al., *Principal component analysis on a torus: Theory and application to protein dynamics*, J. Chem. Phys 147, 244101, 2017; DOI:10.1063/1.4998259
 
 # Compilation #
 
