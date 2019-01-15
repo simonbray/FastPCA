@@ -1,3 +1,5 @@
+[https://github.com/moldyn/FastPCA/zipball/master]
+[https://github.com/moldyn/FastPCA/tarball/master]
 # About #
 
 *FastPCA* is a PCA-calculator programmed in C++11 parallelized with OpenMP.
